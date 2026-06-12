@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="Profile_Image.png" width="100%"/>
-
-</div>
-
 ---
 
 ## 🌟 About Me
