@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Profile_Image" width="100%"/>
+<img src="Profile_Image.png" width="100%"/>
 
 </div>
 
@@ -19,11 +19,11 @@ This repository showcases my learning journey and hands-on projects in **Data Wa
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/apon-kumar-das-47087a332" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://YOUR-PORTFOLIO-URL.com" target="_blank">
+  <a href="https://YOUR-PORTFOLIO-URL.com](https://apondas-data-engineer-portfolio.vercel.app/visualportfolio/home" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
