@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Apon%20Kumar%20Das&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Pipeline%20Builder%20%7C%20SQL%20%26%20Python&descSize=16&descAlignY=58&descColor=94d4f7" width="100%"/>
+<img src="Profile_Image" width="100%"/>
 
 </div>
 
