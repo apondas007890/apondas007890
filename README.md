@@ -1,10 +1,6 @@
----
-
 ## 🌟 About Me
 
 Hi! I'm **Apon Kumar Das**, a tech enthusiast and aspiring **Data Engineer**. I'm passionate about technology, data, and building robust data solutions.
-
-This repository showcases my learning journey and hands-on projects in **Data Warehousing**, **ETL pipelines**, and **data modeling**. It's my way of sharing knowledge, demonstrating growth, and building a professional data engineering portfolio.
 
 📚 🌱 I'm eager to learn, grow, and connect with others in the data engineering community!
 
@@ -53,7 +49,6 @@ This repository showcases my learning journey and hands-on projects in **Data Wa
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 
 ---
