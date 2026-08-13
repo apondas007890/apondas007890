@@ -12,3 +12,4 @@
     <img src="https://img.shields.io/badge/STATUS-⚡%20CODING%20CHUNIBYO-0ea5e9?style=for-the-badge&logo=codeigniter&logoColor=white" />
     <img src="https://img.shields.io/badge/ANIME-🔥%20ON%20EPISODE%201122-ff69b4?style=for-the-badge&logo=crunchyroll&logoColor=white" />
   </p>
+<img src="<https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHIyejY3bmIyNXd6bHRyOWQ1djdma2E5NXpyM3RnbWRnZHNneG5uZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jExfgTdOggNl3icYoT/giphy.webp>" width="200" style="border-radius: 50%; border: 4px solid #0ea5e9; box-shadow: 0 0 40px #0ea5e9;" alt="Anime Avatar"/>
