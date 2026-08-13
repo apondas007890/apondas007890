@@ -1,30 +1,74 @@
 <div align="center">
-  
-  <!-- ANIMATED BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:7c3aed,100:0f172a&height=200&section=header&text=✦%20Apon%20Kumar%20Das%20✦&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
-  
-  <!-- TYPING ANIMATION -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=600&height=70&lines=Data+Engineer+%7C+Tech+Enthusiast;Building+Data+Pipelines+%F0%9F%94%A5;ETL+%7C+Spark+%7C+Warehousing;Python+%7C+SQL+%7C+R" alt="Typing Animation" />
-  
-  <br><br>
-  
-  <!-- PROFILE VIEWS & STATUS BADGES -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=apondas007890&label=✦+PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/FOCUS-Data%20Engineering-0ea5e9?style=for-the-badge&logo=data&logoColor=white" />
-    <img src="https://img.shields.io/badge/STATUS-Active%20Learner-7c3aed?style=for-the-badge&logo=codeigniter&logoColor=white" />
-  </p>
-  
-  <br>
-  
-  <!-- PROFILE IMAGE -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHIyejY3bmIyNXd6bHRyOWQ1djdma2E5NXpyM3RnbWRnZHNneG5uZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jExfgTdOggNl3icYoT/giphy.webp" width="180" style="border-radius: 50%; border: 3px solid #0ea5e9; box-shadow: 0 0 30px #0ea5e9aa;" alt="Profile"/>
-  
-  <br><br>
-  
-  <!-- DIVIDER -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-  
+
+<!-- 🌌 HERO BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,65:312e81,100:0ea5e9&height=220&section=header&text=APON%20KUMAR%20DAS&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+
+<!-- ⚡ TYPING INTRO -->
+<a href="https://github.com/apondas007890">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=70&lines=%E2%9A%A1+DATA+ENGINEER+%7C+ETL+%7C+BIG+DATA;Building+scalable+data+pipelines+%F0%9F%9A%80;Turning+raw+data+into+meaningful+insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Spark+%7C+Databricks;Always+Learning.+Always+Building.+%F0%9F%94%A5" alt="Typing Animation"/>
+</a>
+
+<br>
+
+<!-- 🧊 STATUS BADGES -->
+<img src="https://komarev.com/ghpvc/?username=apondas007890&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-DATA%20ENGINEERING-7c3aed?style=for-the-badge&logo=databricks&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-BUILDING-10b981?style=for-the-badge&logo=github&logoColor=white"/>
+
+<br><br>
+
+<!-- 👨‍💻 ANIMATED CODING IMAGE -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHIyejY3bmIyNXd6bHRyOWQ1djdma2E5NXpyM3RnbWRnZHNneG5uZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jExfgTdOggNl3icYoT/giphy.webp"
+     width="190"
+     alt="Coding Animation"/>
+
+<br><br>
+
+<!-- 🔥 SHORT IDENTITY -->
+<table>
+<tr>
+<td align="center" width="180">
+
+### ⚡ BUILD
+
+Data Pipelines
+
+</td>
+
+<td align="center" width="180">
+
+### 🧠 LEARN
+
+Big Data
+
+</td>
+
+<td align="center" width="180">
+
+### ☁️ EXPLORE
+
+Cloud & Lakehouse
+
+</td>
+
+<td align="center" width="180">
+
+### 🚀 GROW
+
+Every Day
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- 🌊 ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+     width="100%"/>
+
 </div>
 
 ---
