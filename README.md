@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-```diff
+
 +  Name    :  Apon Kumar Das
 +  Title   :  Data Engineer
 +  Focus   :  ETL  │  Warehousing  │  Spark
