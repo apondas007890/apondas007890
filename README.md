@@ -3,8 +3,10 @@
 <div align="center">
 
 <img src="./assets/Cover_Image.jpg"
-     width="180"
-     alt="Apon Kumar Das"/>
+     width="400"
+     height="auto"
+     alt="Apon Kumar Das"
+     style="border-radius: 10px;" />
 
 <br><br>
 
