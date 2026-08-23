@@ -162,11 +162,24 @@ Hi! I'm **Apon Kumar Das**, a passionate **Data Engineer** with a love for build
 
 <div align="center">
 
-| Stats | Languages |
-|-------|-----------|
-| <img src="https://github-readme-stats.vercel.app/api?username=apondas007890&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&icon_color=0ea5e9&hide=issues&count_private=true" width="380"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apondas007890&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&hide=jupyter%20notebook" width="380"/> |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=apondas007890&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&icon_color=0ea5e9&hide=issues&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apondas007890&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&hide=jupyter%20notebook" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=apondas007890&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" width="600"/>
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=apondas007890&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" alt="GitHub Streak" width="600"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=apondas007890&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=8b5cf6&line=0ea5e9&point=8b5cf6" width="800" alt="GitHub Activity Graph"/>
 
 </div>
 
