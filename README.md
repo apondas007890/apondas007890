@@ -179,11 +179,40 @@ Hi! I'm **Apon Kumar Das**, a passionate **Data Engineer** with a love for build
 
 <div align="center">
 
-| 🎓 | Education | Period | Result |
-|:---:|---|:---:|:---:|
-| 🎓 | **American International University–Bangladesh (AIUB)**<br><sub>B.Sc. in Computer Science and Engineering</sub> | **2021 – 2025**<br><sub>📍 Dhaka, Bangladesh</sub> | **3.82 / 4.00**<br>🏅 Dean's List |
-| 🎓 | **Govt Kadam Rasul College**<br><sub>Higher Secondary Certificate (HSC)</sub> | **2018 – 2020**<br><sub>📍 Narayanganj, Bangladesh</sub> | **4.25 / 5.00**<br>🔬 Science |
-| 🎓 | **Narayanganj High School and College**<br><sub>Secondary School Certificate (SSC)</sub> | **2018**<br><sub>📍 Narayanganj, Bangladesh</sub> | **4.00 / 5.00**<br>🔬 Science |
+<table width="90%">
+<tr>
+<td align="left">
+<b> 🎓 American International University–Bangladesh (AIUB)</b><br>
+<i>B.Sc. in Computer Science and Engineering</i>
+</td>
+<td align="right">
+<b>Sept. 2021 – Nov. 2025</b><br>
+<i>CGPA: 3.82 / 4.00</i>
+</td>
+</tr>
+
+<tr>
+<td align="left">
+<b> 🎓 Govt Kadam Rasul College</b><br>
+<i>Higher Secondary Certificate (HSC)</i>
+</td>
+<td align="right">
+<b>July 2018 – April 2020</b><br>
+<i>GPA: 4.25 / 5.00</i>
+</td>
+</tr>
+
+<tr>
+<td align="left">
+<b> 🎓 Narayanganj High School and College</b><br>
+<i>Secondary School Certificate (SSC)</i>
+</td>
+<td align="right">
+<b>2018</b><br>
+<i>GPA: 4.00 / 5.00</i>
+</td>
+</tr>
+</table>
 
 </div>
 
