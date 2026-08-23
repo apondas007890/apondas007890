@@ -1,7 +1,7 @@
 <!-- 🌌 PROFILE HEADER -->
 <div align="center">
 
-  <img src="assets/jjk-jujutsu.gif" width="150" alt="GIF 1" />
+  <img src="gif1.gif" width="150" alt="GIF 1" />
   &nbsp;&nbsp;
   <img src="assets/killua-zoldyck-anime.gif" width="150" alt="GIF 2" />
   &nbsp;&nbsp;
@@ -9,7 +9,6 @@
   &nbsp;&nbsp;
   <img src="assets/wind-breaker-wind-breaker-togame.gif" width="150" alt="GIF 4" />
 
-  <br><br>
 
   <h1>Apon Kumar Das</h1>
 
@@ -18,7 +17,6 @@
     <strong>Passionate About Tech & Data</strong> ·
   </p>
 
-  <br>
 
   <a href="https://www.linkedin.com/in/apon-kumar-das-47087a332">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
