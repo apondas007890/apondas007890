@@ -166,14 +166,10 @@ Hi! I'm **Apon Kumar Das**, a passionate **Data Engineer** with a love for build
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/apondas007890">
-        <img src="https://github-readme-stats.vercel.app/api?username=apondas007890&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&icon_color=0ea5e9" width="400" alt="GitHub Stats"/>
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api?username=apondas007890&show_icons=true&theme=dark&hide_border=true" width="400" alt="GitHub Stats"/>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/apondas007890">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apondas007890&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" width="400" alt="Top Languages"/>
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apondas007890&layout=compact&theme=dark&hide_border=true" width="400" alt="Top Languages"/>
     </td>
   </tr>
 </table>
