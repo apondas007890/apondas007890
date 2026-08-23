@@ -173,46 +173,22 @@ Hi! I'm **Apon Kumar Das**, a passionate **Data Engineer** with a love for build
 | 🏅 IT Essentials (PC Hardware & Software) | Cisco Networking Academy | 2022 | <a href="https://www.netacad.com"><img src="./assets/verify.svg" width="70" height="22" alt="Verify"></a> |
 
 </div>
----
+
 
 ## 🎓 Education
 
 <div align="center">
 
-<table width="90%">
-<tr>
-<td align="left">
-<b> 🎓 American International University–Bangladesh (AIUB)</b><br>
-<i>B.Sc. in Computer Science and Engineering</i>
-</td>
-<td align="right">
-<b>Sept. 2021 – Nov. 2025</b><br>
-<i>CGPA: 3.82 / 4.00</i>
-</td>
-</tr>
+<pre align="left">
+<b>American International University–Bangladesh (AIUB)</b>                         <b>Sept. 2021 – Nov. 2025</b>
+<i>B.Sc. in Computer Science and Engineering</i>                                   <i>CGPA: 3.82 / 4.00</i>
 
-<tr>
-<td align="left">
-<b> 🎓 Govt Kadam Rasul College</b><br>
-<i>Higher Secondary Certificate (HSC)</i>
-</td>
-<td align="right">
-<b>July 2018 – April 2020</b><br>
-<i>GPA: 4.25 / 5.00</i>
-</td>
-</tr>
+<b>Govt Kadam Rasul College</b>                                                     <b>July 2018 – April 2020</b>
+<i>Higher Secondary Certificate (HSC)</i>                                           <i>GPA: 4.25 / 5.00</i>
 
-<tr>
-<td align="left">
-<b> 🎓 Narayanganj High School and College</b><br>
-<i>Secondary School Certificate (SSC)</i>
-</td>
-<td align="right">
-<b>2018</b><br>
-<i>GPA: 4.00 / 5.00</i>
-</td>
-</tr>
-</table>
+<b>Narayanganj High School and College</b>                                         <b>2018</b>
+<i>Secondary School Certificate (SSC)</i>                                           <i>GPA: 4.00 / 5.00</i>
+</pre>
 
 </div>
 
