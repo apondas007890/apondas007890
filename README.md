@@ -6,7 +6,7 @@
 <!-- Badge Banner -->
 <div align="center">
   
-  **`Data Engineer`** · **`Tech Enthusiast`** · **`Problem Solver`**
+  **`Data Engineer`** · **`Passionate About Tech & Data`**
   
   <a href="https://www.linkedin.com/in/apon-kumar-das-47087a332" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -24,7 +24,6 @@
   <br/>
   
   <img src="https://komarev.com/ghpvc/?username=apondas007890&style=flat-square&color=8B5CF6" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Aspiring%20Data%20Engineer-%E2%9C%A8-0ea5e9?style=flat-square" alt="Aspiring Data Engineer"/>
   
 </div>
 
@@ -81,9 +80,7 @@ Hi! I'm **Apon Kumar Das**, a passionate **Data Engineer** with a love for build
 
 ### **📊 Data Engineering**
 <p>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
@@ -169,11 +166,11 @@ Hi! I'm **Apon Kumar Das**, a passionate **Data Engineer** with a love for build
 
 | Certification | Platform | Date | Verify |
 |---|---|---|---|
-| 🏅 Associate Data Engineer in SQL | DataCamp | 2026 | <a href="#"><img src="https://img.shields.io/badge/Verify-00B4D8?style=flat-square&logo=datacamp&logoColor=white"/></a> |
-| 🏅 Data Engineer in Python | DataCamp | 2026 | <a href="#"><img src="https://img.shields.io/badge/Verify-00B4D8?style=flat-square&logo=datacamp&logoColor=white"/></a> |
-| 🏅 Introduction to Databricks | DataCamp | 2026 | <a href="#"><img src="https://img.shields.io/badge/Verify-00B4D8?style=flat-square&logo=datacamp&logoColor=white"/></a> |
-| 🏅 AI & ML Fundamentals | Grameenphone Academy | 2025 | <a href="#"><img src="https://img.shields.io/badge/Verify-00B4D8?style=flat-square&logo=datacamp&logoColor=white"/></a> |
-| 🏅 IT Essentials (PC Hardware & Software) | Cisco Networking Academy | 2022 | <a href="#"><img src="https://img.shields.io/badge/Verify-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/></a> |
+| 🏅 Associate Data Engineer in SQL | DataCamp | 2026 | <a href="#"><img src="https://img.shields.io/badge/Verify-00D47E?style=flat-square&logo=datacamp&logoColor=black"/></a> |
+| 🏅 Data Engineer in Python | DataCamp | 2026 | <a href="#"><img src="https://img.shields.io/badge/Verify-00D47E?style=flat-square&logo=datacamp&logoColor=black"/></a> |
+| 🏅 Introduction to Databricks | DataCamp | 2026 | <a href="#"><img src="https://img.shields.io/badge/Verify-00D47E?style=flat-square&logo=datacamp&logoColor=black"/></a> |
+| 🏅 AI & ML Fundamentals | Grameenphone Academy | 2025 | |
+| 🏅 IT Essentials (PC Hardware & Software) | Cisco Networking Academy | 2022 | <a href="#"><img src="https://img.shields.io/badge/Verify-00D47E?style=flat-square&logo=cisco&logoColor=black"/></a> |
 
 </div>
 
@@ -183,11 +180,54 @@ Hi! I'm **Apon Kumar Das**, a passionate **Data Engineer** with a love for build
 
 <div align="center">
 
-| Degree | Institution | Duration | CGPA/GPA |
-|--------|-------------|----------|----------|
-| 🎓 B.Sc. in Computer Science & Engineering | American International University–Bangladesh (AIUB) | Sept 2021 – Nov 2025 | **3.82 / 4.00** |
-| 📜 Higher Secondary Certificate (HSC) | Govt Kadam Rasul College | 2020 | **4.25 / 5.00** |
-| 📜 Secondary School Certificate (SSC) | Narayanganj High School and College | 2018 | **4.00 / 5.00** |
+<!-- Card 1 -->
+<div style="background: #0d1117; border-radius: 16px; padding: 20px; margin: 10px; border: 1px solid #1e293b; width: 90%; max-width: 700px; text-align: left;">
+  <h3 style="color: #8b5cf6; margin: 0;">🎓 American International University–Bangladesh (AIUB)</h3>
+  <p style="color: #0ea5e9; margin: 5px 0;"><b>B.Sc. in Computer Science and Engineering</b></p>
+  <p style="color: #94a3b8; margin: 2px 0;">📅 Sept 2021 – Nov 2025</p>
+  <p style="color: #c9d1d9; margin: 5px 0;">
+    <b>CGPA:</b> <span style="color: #22c55e;">3.82 / 4.00</span>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <b>Achievement:</b> <span style="color: #fbbf24;">🏅 Dean's List</span>
+  </p>
+</div>
+
+<br/>
+
+<!-- Card 2 -->
+<div style="background: #0d1117; border-radius: 16px; padding: 20px; margin: 10px; border: 1px solid #1e293b; width: 90%; max-width: 700px; text-align: left;">
+  <h3 style="color: #8b5cf6; margin: 0;">📚 Govt Kadam Rasul College</h3>
+  <p style="color: #0ea5e9; margin: 5px 0;"><b>Higher Secondary Certificate (HSC)</b></p>
+  <p style="color: #94a3b8; margin: 2px 0;">📅 July 2018 – April 2020</p>
+  <p style="color: #c9d1d9; margin: 5px 0;">
+    <b>GPA:</b> <span style="color: #22c55e;">4.25 / 5.00</span>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <b>Group:</b> <span style="color: #fbbf24;">Science</span>
+  </p>
+</div>
+
+<br/>
+
+<!-- Card 3 -->
+<div style="background: #0d1117; border-radius: 16px; padding: 20px; margin: 10px; border: 1px solid #1e293b; width: 90%; max-width: 700px; text-align: left;">
+  <h3 style="color: #8b5cf6; margin: 0;">🏫 Narayanganj High School and College</h3>
+  <p style="color: #0ea5e9; margin: 5px 0;"><b>Secondary School Certificate (SSC)</b></p>
+  <p style="color: #94a3b8; margin: 2px 0;">📅 2018</p>
+  <p style="color: #c9d1d9; margin: 5px 0;">
+    <b>GPA:</b> <span style="color: #22c55e;">4.00 / 5.00</span>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <b>Group:</b> <span style="color: #fbbf24;">Science</span>
+  </p>
+</div>
+
+
+
+| | |
+|---|---|
+| 🎓 | **American International University–Bangladesh (AIUB)**<br>**B.Sc. in Computer Science and Engineering**<br>📅 Sept 2021 – Nov 2025 &nbsp;•&nbsp; 📍 Dhaka, Bangladesh<br>**CGPA:** `3.82 / 4.00` &nbsp;🏅 Dean's List |
+| 📚 | **Govt Kadam Rasul College**<br>**Higher Secondary Certificate (HSC)**<br>📅 July 2018 – April 2020 &nbsp;•&nbsp; 📍 Narayanganj<br>**GPA:** `4.25 / 5.00` &nbsp;📐 Science Group |
+| 🏫 | **Narayanganj High School and College**<br>**Secondary School Certificate (SSC)**<br>📅 2018 &nbsp;•&nbsp; 📍 Narayanganj<br>**GPA:** `4.00 / 5.00` &nbsp;📐 Science Group |
+
 
 </div>
 
@@ -196,18 +236,6 @@ Hi! I'm **Apon Kumar Das**, a passionate **Data Engineer** with a love for build
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-
-<!-- Simplified Stats -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=apondas007890&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&icon_color=0ea5e9" width="400" alt="GitHub Stats"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apondas007890&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" width="400" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
@@ -241,11 +269,3 @@ Hi! I'm **Apon Kumar Das**, a passionate **Data Engineer** with a love for build
 </a>
 
 <br/><br/>
-
-⭐ **If you like what you see, consider starring a repo or connecting with me!** ⭐
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:3b82f6,100:0ea5e9&height=120&section=footer" width="100%"/>
-
-</div>
