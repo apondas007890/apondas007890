@@ -1,14 +1,13 @@
 <!-- 🌌 PROFILE HEADER -->
 <div align="center">
 
-  <!-- 4 GIFs Side by Side (Saved locally) -->
-  <img src="./assets/gif1.gif" width="150" alt="GIF 1" />
+  <img src="assets/jjk-jujutsu.gif" width="150" alt="GIF 1" />
   &nbsp;&nbsp;
-  <img src="./assets/gif2.gif" width="150" alt="GIF 2" />
+  <img src="assets/killua-zoldyck-anime.gif" width="150" alt="GIF 2" />
   &nbsp;&nbsp;
-  <img src="./assets/gif3.gif" width="150" alt="GIF 3" />
+  <img src="assets/roy-leops.gif" width="150" alt="GIF 3" />
   &nbsp;&nbsp;
-  <img src="./assets/gif4.gif" width="150" alt="GIF 4" />
+  <img src="assets/wind-breaker-wind-breaker-togame.gif" width="150" alt="GIF 4" />
 
   <br><br>
 
