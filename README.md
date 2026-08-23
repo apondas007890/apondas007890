@@ -1,7 +1,7 @@
 <!-- 🌌 PROFILE HEADER -->
 <div align="center">
 
-  <img src="gif1.gif" width="150" alt="GIF 1" />
+  <img src="assets/gif1.gif" width="150" alt="GIF 1" />
   &nbsp;&nbsp;
   <img src="assets/killua-zoldyck-anime.gif" width="150" alt="GIF 2" />
   &nbsp;&nbsp;
