@@ -2,28 +2,16 @@
 <div align="center">
 
   <img src="assets/gif1.gif" width="150" alt="GIF 1" />
-  &nbsp;&nbsp;
-  <img src="assets/killua-zoldyck-anime.gif" width="150" alt="GIF 2" />
-  &nbsp;&nbsp;
-  <img src="assets/roy-leops.gif" width="150" alt="GIF 3" />
-  &nbsp;&nbsp;
-  <img src="assets/wind-breaker-wind-breaker-togame.gif" width="150" alt="GIF 4" />
-<!-- Anime Greeting GIFs Banner -->
-  <a href="https://github.com/apondas007890">
-    <img src="assets/jjk-jujutsu.gif" width="165" height="110" alt="JJK" style="border-radius: 8px; object-fit: cover;" />
-    <img src="assets/killua-zoldyck-anime.gif" width="165" height="110" alt="Killua" style="border-radius: 8px; object-fit: cover;" />
-    <img src="assets/roy-leops.gif" width="165" height="110" alt="Roy" style="border-radius: 8px; object-fit: cover;" />
-    <img src="assets/wind-breaker-wind-breaker-togame.gif" width="165" height="110" alt="Wind Breaker" style="border-radius: 8px; object-fit: cover;" />
-  </a>
-
-  <br><br>
-
-  <!-- Animated Wave & Typing Greeting -->
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Apon+Kumar+Das;Data+Engineer+%26+Tech+Enthusiast;Welcome+to+my+profile!+✨" alt="Typing SVG" />
-
-  <h1>Apon Kumar Das</h1>
-
+  <img src="assets/gif2.gif" width="150" alt="GIF 2" />
+  <img src="assets/gif3.gif" width="150" alt="GIF 3" />
+  <img src="assets/gif4.gif" width="150" alt="GIF 4" />
+  <img src="assets/gif5.gif" width="150" alt="GIF 5" />
+  <img src="assets/gif6.gif" width="150" alt="GIF 6" />
+<!-- Animated Wave & Typing Greeting -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" style="vertical-align: middle;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=450&lines=Hey+there!+I'm+Apon+Kumar+Das;Data+Engineer+%26+Tech+Enthusiast;Welcome+to+my+profile!+%E2%9C%A8" alt="Typing SVG" style="vertical-align: middle;" />
+</p>
   <p>
     <strong>Data Engineer</strong> ·
     <strong>Passionate About Tech & Data</strong> ·
