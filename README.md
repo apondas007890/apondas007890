@@ -3,12 +3,11 @@
 <div align="center">
 
 <img src="./assets/Cover_Image.jpg"
-     width="400"
-     height="auto"
+     width="1920"
+     height="1080"
      alt="Apon Kumar Das"
      style="border-radius: 10px;" />
 
-<br><br>
 
 <h1>⚡ Apon Kumar Das</h1>
 
