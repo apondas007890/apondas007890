@@ -29,31 +29,57 @@
 
 ---
 
-<!-- About Me Card -->
+<!-- 🌌 About Me -->
+
 <table align="center" width="100%">
 <tr>
-<td width="70%">
+<td width="65%" valign="top">
 
-### 🌟 **About Me**
+## 🧬 About Me
 
-> Crafting data pipelines that turn raw information into actionable insights.
+> **I turn messy data into systems that actually make sense.**
 
-Hi! I'm **Apon Kumar Das**, a passionate **Data Engineer** with a love for building scalable, robust data solutions. I believe in clean code, efficient pipelines, and the power of data-driven decision making.
+Hey! I'm **Apon Kumar Das** — a **Data Engineer** who enjoys going deep into the systems behind data.
 
-📚 **Currently exploring:** Real-time data streaming, Lakehouse architectures, and ML model deployment.
+I like understanding **how data moves**, not just how to query it — from ingestion and **ETL/ELT pipelines** to distributed processing, **data lakes, lakehouses, and data warehouses**.
 
-🤝 **Open to:** Collaborations, mentorship, and connecting with fellow data enthusiasts!
+⚙️ **What I enjoy building**
+
+* 🏗️ Scalable & reliable data pipelines
+* ⚡ Distributed processing with **Spark / PySpark**
+* 🗄️ Data warehouses, lakes & **Lakehouse architectures**
+* 🔄 Batch & real-time data workflows
+* 🧩 Clean data models and efficient transformations
+
+🔭 **Currently exploring:**
+`Databricks` · `Delta Lake` · `Apache Spark` · `Kafka` · `Cloud Data Engineering`
+
+🧠 **My mindset:**
+
+> Understand the system. Break it down. Build it better.
+
+And when I'm not thinking about data pipelines, you'll probably find me somewhere between **anime, technology, and way too many tabs open.** ⚡
 
 </td>
-<td width="30%" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlpemozN2NvbGJ0dzMzaWx3dmw0N2M4Znc3eWR3Zzk1d3lwM2djbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="140" alt="Data Engineering GIF"/>
+<td width="35%" align="center" valign="middle">
 
-**`"Data is the new oil"`**
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFjd3hxYWtqN3NuYjV3bXhxbTI5d2plZm5tZzFseHBvcGFhbzR3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif"
+  width="260"
+  alt="Anime technology GIF"/>
+
+<br><br>
+
+<b>「 DATA → SYSTEMS → INSIGHT 」</b>
+
+<br>
+
+<sub>Building pipelines. Understanding systems.<br>Always learning something new.</sub>
 
 </td>
 </tr>
 </table>
+
 
 ---
 
@@ -173,7 +199,7 @@ Hi! I'm **Apon Kumar Das**, a passionate **Data Engineer** with a love for build
 | 🏅 IT Essentials (PC Hardware & Software) | Cisco Networking Academy | 2022 | <a href="https://www.netacad.com"><img src="./assets/verify.svg" width="70" height="22" alt="Verify"></a> |
 
 </div>
-
+---
 
 ## 🎓 Education
 
