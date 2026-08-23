@@ -1,5 +1,5 @@
 <!-- 🌌 PROFILE HEADER -->
-
+<div align="center">
 <div align="center">
   <img src="https://media.tenor.com/rd88ioR1YN1.gif" width="150" alt="GIF 1" />
   &nbsp;&nbsp;
@@ -11,7 +11,7 @@
 </div>
 
 
-<div align="center">
+
 
 <h1>Apon Kumar Das</h1>
 
