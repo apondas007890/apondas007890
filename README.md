@@ -166,11 +166,11 @@ Hi! I'm **Apon Kumar Das**, a passionate **Data Engineer** with a love for build
 
 | Certification | Platform | Date | Verify |
 |---|---|---|---|
-| 🏅 Associate Data Engineer in SQL | DataCamp | 2026 | <a href="#"><img src="https://img.shields.io/badge/Verify-000000?style=flat-square&labelColor=00D47E"/></a> |
-| 🏅 Data Engineer in Python | DataCamp | 2026 | <a href="#"><img src="https://img.shields.io/badge/Verify-000000?style=flat-square&labelColor=00D47E"/></a> |
-| 🏅 Introduction to Databricks | DataCamp | 2026 | <a href="#"><img src="https://img.shields.io/badge/Verify-000000?style=flat-square&labelColor=00D47E"/></a> |
-| 🏅 AI & ML Fundamentals | Grameenphone Academy | 2025 | <a href="#"><img src="https://img.shields.io/badge/Verify-000000?style=flat-square&labelColor=00D47E"/></a> |
-| 🏅 IT Essentials (PC Hardware & Software) | Cisco Networking Academy | 2022 | <a href="#"><img src="https://img.shields.io/badge/Verify-000000?style=flat-square&labelColor=00D47E"/></a> |
+| 🏅 Associate Data Engineer in SQL | DataCamp | 2026 | <a href="#"><img src="https://img.shields.io/badge/Verify-00D47E?style=flat-square&color=000000"/></a> |
+| 🏅 Data Engineer in Python | DataCamp | 2026 | <a href="#"><img src="https://img.shields.io/badge/Verify-00D47E?style=flat-square&color=000000"/></a> |
+| 🏅 Introduction to Databricks | DataCamp | 2026 | <a href="#"><img src="https://img.shields.io/badge/Verify-00D47E?style=flat-square&color=000000"/></a> |
+| 🏅 AI & ML Fundamentals | Grameenphone Academy | 2025 | <a href="#"><img src="https://img.shields.io/badge/Verify-00D47E?style=flat-square&color=000000"/></a> |
+| 🏅 IT Essentials (PC Hardware & Software) | Cisco Networking Academy | 2022 |  <a href="#"><img src="https://img.shields.io/badge/Verify-00D47E?style=flat-square&color=000000"/></a> |
 
 </div>
 
