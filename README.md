@@ -166,14 +166,13 @@ Hi! I'm **Apon Kumar Das**, a passionate **Data Engineer** with a love for build
 
 | Certification | Platform | Date | Verify |
 |---|---|---:|---|
-| 🏅 Associate Data Engineer in SQL | DataCamp | 2026 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/532711d20c2d2ea78b2bb249b3eb5a23b68ffad4?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink"><img src="./assets/verify.svg" alt="Verify"></a> |
-| 🏅 Data Engineer in Python | DataCamp | 2026 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/7d02f7a55fdbcdc7ea194dd9da85c5eeb88ec5e5?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink"><img src="./assets/verify.svg" alt="Verify"></a> |
-| 🏅 Introduction to Databricks | DataCamp | 2026 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/752ddad444267021c51883792492eeb4bd47321b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa"><img src="./assets/verify.svg" alt="Verify"></a> |
-| 🏅 AI & ML Fundamentals | Grameenphone Academy | 2025 | <a href="https://www.grameenphone.academy/cert/af2eecb4c67e"><img src="./assets/verify.svg" alt="Verify"></a> |
-| 🏅 IT Essentials (PC Hardware & Software) | Cisco Networking Academy | 2022 | <a href="https://www.netacad.com"><img src="./assets/verify.svg" alt="Verify"></a> |
+| 🏅 Associate Data Engineer in SQL | DataCamp | 2026 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/532711d20c2d2ea78b2bb249b3eb5a23b68ffad4?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink"><img src="https://img.shields.io/badge/✓%20Verify-00D47E?style=flat-square&labelColor=00D47E&color=00D47E" alt="Verify"></a> |
+| 🏅 Data Engineer in Python | DataCamp | 2026 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/7d02f7a55fdbcdc7ea194dd9da85c5eeb88ec5e5?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink"><img src="https://img.shields.io/badge/✓%20Verify-00D47E?style=flat-square&labelColor=00D47E&color=00D47E" alt="Verify"></a> |
+| 🏅 Introduction to Databricks | DataCamp | 2026 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/752ddad444267021c51883792492eeb4bd47321b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa"><img src="https://img.shields.io/badge/✓%20Verify-00D47E?style=flat-square&labelColor=00D47E&color=00D47E" alt="Verify"></a> |
+| 🏅 AI & ML Fundamentals | Grameenphone Academy | 2025 | <a href="https://www.grameenphone.academy/cert/af2eecb4c67e"><img src="https://img.shields.io/badge/✓%20Verify-00D47E?style=flat-square&labelColor=00D47E&color=00D47E" alt="Verify"></a> |
+| 🏅 IT Essentials (PC Hardware & Software) | Cisco Networking Academy | 2022 | <a href="https://www.netacad.com"><img src="https://img.shields.io/badge/✓%20Verify-00D47E?style=flat-square&labelColor=00D47E&color=00D47E" alt="Verify"></a> |
 
 </div>
-
 ---
 
 ## 🎓 **Education**
