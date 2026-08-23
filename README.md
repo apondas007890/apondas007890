@@ -1,44 +1,46 @@
 <!-- 🌌 PROFILE HEADER -->
 <div align="center">
-<div align="center">
-  <img src="https://media.tenor.com/rd88ioR1YN1.gif" width="150" alt="GIF 1" />
+
+  <!-- 4 GIFs Side by Side (Saved locally) -->
+  <img src="./assets/gif1.gif" width="150" alt="GIF 1" />
   &nbsp;&nbsp;
-  <img src="https://media.tenor.com/m6nJNaCcV0y.gif" width="150" alt="GIF 2" />
+  <img src="./assets/gif2.gif" width="150" alt="GIF 2" />
   &nbsp;&nbsp;
-  <img src="https://media.tenor.com/kobihx8xKyI.gif" width="150" alt="GIF 3" />
+  <img src="./assets/gif3.gif" width="150" alt="GIF 3" />
   &nbsp;&nbsp;
-  <img src="https://media.tenor.com/biutT.gif" width="150" alt="GIF 4" />
-</div>
+  <img src="./assets/gif4.gif" width="150" alt="GIF 4" />
 
+  <br><br>
 
+  <h1>Apon Kumar Das</h1>
 
+  <p>
+    <strong>Data Engineer</strong> ·
+    <strong>Passionate About Tech & Data</strong> ·
+  </p>
 
-<h1>Apon Kumar Das</h1>
+  <br>
 
-<p>
-  <strong>Data Engineer</strong> ·
-  <strong>Passionate About Tech & Data</strong> ·
-</p>
+  <a href="https://www.linkedin.com/in/apon-kumar-das-47087a332">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://apondas-data-engineer-portfolio.vercel.app/visualportfolio/home">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:apondas007890@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/apondas007890">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 
+  <br><br>
 
-<a href="https://www.linkedin.com/in/apon-kumar-das-47087a332">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://apondas-data-engineer-portfolio.vercel.app/visualportfolio/home">
-  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:apondas007890@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/apondas007890">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=apondas007890&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"
-     alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=apondas007890&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"
+       alt="Profile Views"/>
 
 </div>
 ---
