@@ -1,5 +1,4 @@
 <!-- 🌌 PROFILE HEADER -->
-<div align="center">
 
   <img src="assets/gif1.gif" width="150" alt="GIF 1" />
   <img src="assets/gif2.gif" width="150" alt="GIF 2" />
@@ -7,6 +6,8 @@
   <img src="assets/gif4.gif" width="150" alt="GIF 4" />
   <img src="assets/gif5.gif" width="150" alt="GIF 5" />
   <img src="assets/gif6.gif" width="150" alt="GIF 6" />
+  <div align="center">
+
 <!-- Animated Wave & Typing Greeting -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" style="vertical-align: middle;" />
