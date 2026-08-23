@@ -8,7 +8,19 @@
   <img src="assets/roy-leops.gif" width="150" alt="GIF 3" />
   &nbsp;&nbsp;
   <img src="assets/wind-breaker-wind-breaker-togame.gif" width="150" alt="GIF 4" />
+<!-- Anime Greeting GIFs Banner -->
+  <a href="https://github.com/apondas007890">
+    <img src="assets/jjk-jujutsu.gif" width="165" height="110" alt="JJK" style="border-radius: 8px; object-fit: cover;" />
+    <img src="assets/killua-zoldyck-anime.gif" width="165" height="110" alt="Killua" style="border-radius: 8px; object-fit: cover;" />
+    <img src="assets/roy-leops.gif" width="165" height="110" alt="Roy" style="border-radius: 8px; object-fit: cover;" />
+    <img src="assets/wind-breaker-wind-breaker-togame.gif" width="165" height="110" alt="Wind Breaker" style="border-radius: 8px; object-fit: cover;" />
+  </a>
 
+  <br><br>
+
+  <!-- Animated Wave & Typing Greeting -->
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Apon+Kumar+Das;Data+Engineer+%26+Tech+Enthusiast;Welcome+to+my+profile!+✨" alt="Typing SVG" />
 
   <h1>Apon Kumar Das</h1>
 
