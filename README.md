@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/Cover_Image.png"
+<img src="./assets/Cover_Image.jpg"
      width="180"
      alt="Apon Kumar Das"/>
 
