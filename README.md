@@ -1,27 +1,25 @@
 <!-- 🌌 PROFILE HEADER -->
 
 <div align="center">
+  <img src="https://media.tenor.com/rd88ioR1YN1.gif" width="150" alt="GIF 1" />
+  &nbsp;&nbsp;
+  <img src="https://media.tenor.com/m6nJNaCcV0y.gif" width="150" alt="GIF 2" />
+  &nbsp;&nbsp;
+  <img src="https://media.tenor.com/kobihx8xKyI.gif" width="150" alt="GIF 3" />
+  &nbsp;&nbsp;
+  <img src="https://media.tenor.com/biutT.gif" width="150" alt="GIF 4" />
+</div>
 
-<img src="./assets/Cover_Image.jpg"
-     width="1920"
-     height="1080"
-     alt="Apon Kumar Das"
-     style="border-radius: 10px;" />
 
+<div align="center">
 
-<h1>⚡ Apon Kumar Das</h1>
+<h1>Apon Kumar Das</h1>
 
 <p>
   <strong>Data Engineer</strong> ·
-  <strong>Tech Explorer</strong> ·
-  <strong>Data & Systems Enthusiast</strong>
+  <strong>Passionate About Tech & Data</strong> ·
 </p>
 
-<sub>
-  Building with data · Breaking things · Understanding how they work
-</sub>
-
-<br><br>
 
 <a href="https://www.linkedin.com/in/apon-kumar-das-47087a332">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -38,8 +36,6 @@
 <a href="https://github.com/apondas007890">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=apondas007890&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"
      alt="Profile Views"/>
