@@ -1,32 +1,49 @@
-<!-- Modern Gradient Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:3b82f6,100:8b5cf6&height=180&section=header&text=Apon%20Kumar%20Das&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
-</div>
+<!-- 🌌 PROFILE HEADER -->
 
-<!-- Badge Banner -->
 <div align="center">
-  
-  **`Data Engineer`** · **`Passionate About Tech & Data`**
-  
-  <a href="https://www.linkedin.com/in/apon-kumar-das-47087a332" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://apondas-data-engineer-portfolio.vercel.app/visualportfolio/home" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:apondas007890@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/apondas007890" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=apondas007890&style=flat-square&color=8B5CF6" alt="Profile Views"/>
-  
-</div>
 
+<img src="./assets/Cover_Image.png"
+     width="180"
+     alt="Apon Kumar Das"/>
+
+<br><br>
+
+<h1>⚡ Apon Kumar Das</h1>
+
+<p>
+  <strong>Data Engineer</strong> ·
+  <strong>Tech Explorer</strong> ·
+  <strong>Data & Systems Enthusiast</strong>
+</p>
+
+<sub>
+  Building with data · Breaking things · Understanding how they work
+</sub>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/apon-kumar-das-47087a332">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://apondas-data-engineer-portfolio.vercel.app/visualportfolio/home">
+  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:apondas007890@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/apondas007890">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=apondas007890&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"
+     alt="Profile Views"/>
+
+</div>
 ---
 
 <!-- 🌌 About Me -->
@@ -43,7 +60,7 @@ I love going under the hood, learning how things actually work, and discovering 
 
 My interest in data comes from the bigger picture — **how real data products are built, how data flows through systems, and how good architecture turns data into something useful for better decisions.**
 
-I'm constantly experimenting, breaking things, rebuilding them, and occasionally asking myself:
+I'm constantly experimenting, breaking things, rebuilding them, and keep asking myself:
 
 > **"Wait... why does this work like that?"** 🤨
 
