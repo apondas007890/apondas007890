@@ -160,19 +160,13 @@ Hi! I'm **Apon Kumar Das**, a passionate **Data Engineer** with a love for build
 
 ---
 
-## 📜 **Certifications**
-
-<div align="center">
-
 | Certification | Platform | Date | Verify |
 |---|---|---|---|
-| 🏅 Associate Data Engineer in SQL | DataCamp | 2026 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/532711d20c2d2ea78b2bb249b3eb5a23b68ffad4?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink"><svg xmlns="http://www.w3.org/2000/svg" width="70" height="20"><rect width="70" height="20" rx="3" fill="#00D47E"/><text x="35" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="600" fill="#000000">Verify</text></svg></a> |
-| 🏅 Data Engineer in Python | DataCamp | 2026 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/7d02f7a55fdbcdc7ea194dd9da85c5eeb88ec5e5?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink"><svg xmlns="http://www.w3.org/2000/svg" width="70" height="20"><rect width="70" height="20" rx="3" fill="#00D47E"/><text x="35" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="600" fill="#000000">Verify</text></svg></a> |
-| 🏅 Introduction to Databricks | DataCamp | 2026 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/752ddad444267021c51883792492eeb4bd47321b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa"><svg xmlns="http://www.w3.org/2000/svg" width="70" height="20"><rect width="70" height="20" rx="3" fill="#00D47E"/><text x="35" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="600" fill="#000000">Verify</text></svg></a> |
-| 🏅 AI & ML Fundamentals | Grameenphone Academy | 2025 | <a href="https://www.grameenphone.academy/cert/af2eecb4c67e"><svg xmlns="http://www.w3.org/2000/svg" width="70" height="20"><rect width="70" height="20" rx="3" fill="#00D47E"/><text x="35" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="600" fill="#000000">Verify</text></svg></a> |
-| 🏅 IT Essentials (PC Hardware & Software) | Cisco Networking Academy | 2022 | <a href="https://www.netacad.com"><svg xmlns="http://www.w3.org/2000/svg" width="70" height="20"><rect width="70" height="20" rx="3" fill="#00D47E"/><text x="35" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="600" fill="#000000">Verify</text></svg></a> |
-
-</div>
+| 🏅 Associate Data Engineer in SQL | DataCamp | 2026 | [<img src="https://img.shields.io/badge/Verify-000000?style=flat-square&labelColor=00D47E&color=00D47E" alt="Verify">](https://www.datacamp.com/completed/statement-of-accomplishment/track/532711d20c2d2ea78b2bb249b3eb5a23b68ffad4?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink) |
+| 🏅 Data Engineer in Python | DataCamp | 2026 | [<img src="https://img.shields.io/badge/Verify-000000?style=flat-square&labelColor=00D47E&color=00D47E" alt="Verify">](https://www.datacamp.com/completed/statement-of-accomplishment/track/7d02f7a55fdbcdc7ea194dd9da85c5eeb88ec5e5?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink) |
+| 🏅 Introduction to Databricks | DataCamp | 2026 | [<img src="https://img.shields.io/badge/Verify-000000?style=flat-square&labelColor=00D47E&color=00D47E" alt="Verify">](https://www.datacamp.com/completed/statement-of-accomplishment/course/752ddad444267021c51883792492eeb4bd47321b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa) |
+| 🏅 AI & ML Fundamentals | Grameenphone Academy | 2025 | [<img src="https://img.shields.io/badge/Verify-000000?style=flat-square&labelColor=00D47E&color=00D47E" alt="Verify">](https://www.grameenphone.academy/cert/af2eecb4c67e) |
+| 🏅 IT Essentials (PC Hardware & Software) | Cisco Networking Academy | 2022 | [<img src="https://img.shields.io/badge/Verify-000000?style=flat-square&labelColor=00D47E&color=00D47E" alt="Verify">](https://www.netacad.com) |
 ---
 
 ## 🎓 **Education**
