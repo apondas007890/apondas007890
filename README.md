@@ -160,67 +160,30 @@ Hi! I'm **Apon Kumar Das**, a passionate **Data Engineer** with a love for build
 
 ---
 
-| Certification | Platform | Date | Verify |
-|---|---|---|---|
-| 🏅 Associate Data Engineer in SQL | DataCamp | 2026 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/532711d20c2d2ea78b2bb249b3eb5a23b68ffad4?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink"><span style="background-color:#00D47E; color:#000000; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:13px; text-decoration:none;">Verify</span></a> |
-| 🏅 Data Engineer in Python | DataCamp | 2026 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/7d02f7a55fdbcdc7ea194dd9da85c5eeb88ec5e5?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink"><span style="background-color:#00D47E; color:#000000; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:13px; text-decoration:none;">Verify</span></a> |
-| 🏅 Introduction to Databricks | DataCamp | 2026 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/752ddad444267021c51883792492eeb4bd47321b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa"><span style="background-color:#00D47E; color:#000000; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:13px; text-decoration:none;">Verify</span></a> |
-| 🏅 AI & ML Fundamentals | Grameenphone Academy | 2025 | <a href="https://www.grameenphone.academy/cert/af2eecb4c67e"><span style="background-color:#00D47E; color:#000000; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:13px; text-decoration:none;">Verify</span></a> |
-| 🏅 IT Essentials (PC Hardware & Software) | Cisco Networking Academy | 2022 | <a href="https://www.netacad.com"><span style="background-color:#00D47E; color:#000000; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:13px; text-decoration:none;">Verify</span></a> |
----
-
-## 🎓 **Education**
+## 📜 **Certifications**
 
 <div align="center">
 
-<!-- Card 1 -->
-<div style="background: #0d1117; border-radius: 16px; padding: 20px; margin: 10px; border: 1px solid #1e293b; width: 90%; max-width: 700px; text-align: left;">
-  <h3 style="color: #8b5cf6; margin: 0;">🎓 American International University–Bangladesh (AIUB)</h3>
-  <p style="color: #0ea5e9; margin: 5px 0;"><b>B.Sc. in Computer Science and Engineering</b></p>
-  <p style="color: #94a3b8; margin: 2px 0;">📅 Sept 2021 – Nov 2025</p>
-  <p style="color: #c9d1d9; margin: 5px 0;">
-    <b>CGPA:</b> <span style="color: #22c55e;">3.82 / 4.00</span>
-    &nbsp;&nbsp;|&nbsp;&nbsp;
-    <b>Achievement:</b> <span style="color: #fbbf24;">🏅 Dean's List</span>
-  </p>
+| Certification | Platform | Date | Verify |
+|---|---|---:|---|
+| 🏅 Associate Data Engineer in SQL | DataCamp | 2026 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/532711d20c2d2ea78b2bb249b3eb5a23b68ffad4?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink"><img src="./assets/verify.svg" width="70" height="22" alt="Verify"></a> |
+| 🏅 Data Engineer in Python | DataCamp | 2026 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/7d02f7a55fdbcdc7ea194dd9da85c5eeb88ec5e5?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink"><img src="./assets/verify.svg" width="70" height="22" alt="Verify"></a> |
+| 🏅 Introduction to Databricks | DataCamp | 2026 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/752ddad444267021c51883792492eeb4bd47321b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa"><img src="./assets/verify.svg" width="70" height="22" alt="Verify"></a> |
+| 🏅 AI & ML Fundamentals | Grameenphone Academy | 2025 | <a href="https://www.grameenphone.academy/cert/af2eecb4c67e"><img src="./assets/verify.svg" width="70" height="22" alt="Verify"></a> |
+| 🏅 IT Essentials (PC Hardware & Software) | Cisco Networking Academy | 2022 | <a href="https://www.netacad.com"><img src="./assets/verify.svg" width="70" height="22" alt="Verify"></a> |
+
 </div>
+---
 
-<br/>
+## 🎓 Education
 
-<!-- Card 2 -->
-<div style="background: #0d1117; border-radius: 16px; padding: 20px; margin: 10px; border: 1px solid #1e293b; width: 90%; max-width: 700px; text-align: left;">
-  <h3 style="color: #8b5cf6; margin: 0;">📚 Govt Kadam Rasul College</h3>
-  <p style="color: #0ea5e9; margin: 5px 0;"><b>Higher Secondary Certificate (HSC)</b></p>
-  <p style="color: #94a3b8; margin: 2px 0;">📅 July 2018 – April 2020</p>
-  <p style="color: #c9d1d9; margin: 5px 0;">
-    <b>GPA:</b> <span style="color: #22c55e;">4.25 / 5.00</span>
-    &nbsp;&nbsp;|&nbsp;&nbsp;
-    <b>Group:</b> <span style="color: #fbbf24;">Science</span>
-  </p>
-</div>
+<div align="center">
 
-<br/>
-
-<!-- Card 3 -->
-<div style="background: #0d1117; border-radius: 16px; padding: 20px; margin: 10px; border: 1px solid #1e293b; width: 90%; max-width: 700px; text-align: left;">
-  <h3 style="color: #8b5cf6; margin: 0;">🏫 Narayanganj High School and College</h3>
-  <p style="color: #0ea5e9; margin: 5px 0;"><b>Secondary School Certificate (SSC)</b></p>
-  <p style="color: #94a3b8; margin: 2px 0;">📅 2018</p>
-  <p style="color: #c9d1d9; margin: 5px 0;">
-    <b>GPA:</b> <span style="color: #22c55e;">4.00 / 5.00</span>
-    &nbsp;&nbsp;|&nbsp;&nbsp;
-    <b>Group:</b> <span style="color: #fbbf24;">Science</span>
-  </p>
-</div>
-
-
-
-| | |
-|---|---|
-| 🎓 | **American International University–Bangladesh (AIUB)**<br>**B.Sc. in Computer Science and Engineering**<br>📅 Sept 2021 – Nov 2025 &nbsp;•&nbsp; 📍 Dhaka, Bangladesh<br>**CGPA:** `3.82 / 4.00` &nbsp;🏅 Dean's List |
-| 📚 | **Govt Kadam Rasul College**<br>**Higher Secondary Certificate (HSC)**<br>📅 July 2018 – April 2020 &nbsp;•&nbsp; 📍 Narayanganj<br>**GPA:** `4.25 / 5.00` &nbsp;📐 Science Group |
-| 🏫 | **Narayanganj High School and College**<br>**Secondary School Certificate (SSC)**<br>📅 2018 &nbsp;•&nbsp; 📍 Narayanganj<br>**GPA:** `4.00 / 5.00` &nbsp;📐 Science Group |
-
+| 🎓 | Education | Period | Result |
+|:---:|---|:---:|:---:|
+| 🎓 | **American International University–Bangladesh (AIUB)**<br><sub>B.Sc. in Computer Science and Engineering</sub> | **2021 – 2025**<br><sub>📍 Dhaka, Bangladesh</sub> | **3.82 / 4.00**<br>🏅 Dean's List |
+| 🎓 | **Govt Kadam Rasul College**<br><sub>Higher Secondary Certificate (HSC)</sub> | **2018 – 2020**<br><sub>📍 Narayanganj, Bangladesh</sub> | **4.25 / 5.00**<br>🔬 Science |
+| 🎓 | **Narayanganj High School and College**<br><sub>Secondary School Certificate (SSC)</sub> | **2018**<br><sub>📍 Narayanganj, Bangladesh</sub> | **4.00 / 5.00**<br>🔬 Science |
 
 </div>
 
