@@ -158,44 +158,25 @@ Hi! I'm **Apon Kumar Das**, a passionate **Data Engineer** with a love for build
 
 ---
 
-## 🚀 **GitHub Presence**
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
-<!-- Clean, simple stats without streak numbers -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=apondas007890&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&icon_color=0ea5e9&hide=contribs,prs,issues" width="400" alt="GitHub Stats"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apondas007890&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" width="400" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Minimal presence badge instead of streak numbers -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Active%20Projects-3-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-0ea5e9?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code%20Quality-Focused-22c55e?style=for-the-badge&logo=codefactor&logoColor=white"/>
-</p>
+| 📈 **GitHub Stats** | 📚 **Top Languages** |
+|:---:|:---:|
+| <img src="https://github-readme-stats.vercel.app/api?username=apondas007890&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&icon_color=0ea5e9" width="400" alt="GitHub Stats"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apondas007890&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" width="400" alt="Top Languages"/> |
 
 ---
 
-### 📂 **Active Repositories**
+### 🔥 **GitHub Streak**
 
-<!-- Focus on what you DO have, not what you don't -->
-<div align="center">
+<img src="https://streak-stats.demolab.com/?user=apondas007890&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" width="600" alt="GitHub Streak"/>
 
-| Project | Description | Stars | Last Updated |
-|---------|-------------|-------|--------------|
-| 🏗️ [SQL Data Warehouse](https://github.com/apondas007890/sql-data-warehouse-project) | End-to-end Medallion Architecture | ⭐ 0 | Feb 2026 |
-| 🛍️ [ShopSmart Pipeline](https://github.com/apondas007890/shopsmart-data-preprocessing) | R preprocessing with 11 checkpoints | ⭐ 0 | Feb 2026 |
+---
 
-</div>
+### 📈 **Contribution Graph**
+
+<img src="https://ghchart.rshah.org/apondas007890" width="800" alt="Apon Kumar Das's Contribution Graph"/>
 
 </div>
 ---
