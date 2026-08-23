@@ -37,44 +37,42 @@
 
 ## 🧬 About Me
 
-> **I turn messy data into systems that actually make sense.**
+Hi! I'm **Apon Kumar Das** — a **Data Engineer** and someone who's genuinely **crazy about technology**.
 
-Hey! I'm **Apon Kumar Das** — a **Data Engineer** who enjoys going deep into the systems behind data.
+I love going under the hood, learning how things actually work, and discovering something new every day. I don't just want to know *what* a technology does — I want to know **why it works, how the pieces connect, and what happens behind the scenes**.
 
-I like understanding **how data moves**, not just how to query it — from ingestion and **ETL/ELT pipelines** to distributed processing, **data lakes, lakehouses, and data warehouses**.
+My interest in data comes from the bigger picture — **how real data products are built, how data flows through systems, and how good architecture turns data into something useful for better decisions.**
 
-⚙️ **What I enjoy building**
+I'm constantly experimenting, breaking things, rebuilding them, and occasionally asking myself:
 
-* 🏗️ Scalable & reliable data pipelines
-* ⚡ Distributed processing with **Spark / PySpark**
-* 🗄️ Data warehouses, lakes & **Lakehouse architectures**
-* 🔄 Batch & real-time data workflows
-* 🧩 Clean data models and efficient transformations
+> **"Wait... why does this work like that?"** 🤨
 
-🔭 **Currently exploring:**
-`Databricks` · `Delta Lake` · `Apache Spark` · `Kafka` · `Cloud Data Engineering`
+🔭 **Currently exploring:**  
+`Databricks` · `Delta Lake` · `Apache Spark` · `Kafka` · `Cloud` · `Data Architecture`
 
 🧠 **My mindset:**
 
-> Understand the system. Break it down. Build it better.
+> **Stay curious. Get stuck. Feel dumb. Figure it out. Keep going.**
 
-And when I'm not thinking about data pipelines, you'll probably find me somewhere between **anime, technology, and way too many tabs open.** ⚡
+Sometimes my brain runs like an **old Samsung phone** — freezes, hangs, needs a restart... but somehow, **it gets the job done.** 😂
+
+And when I'm not messing with data and technology, I'm probably watching **anime** — because every serious engineer needs a little chaos in the system. ⚡
 
 </td>
 
 <td width="35%" align="center" valign="middle">
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFjd3hxYWtqN3NuYjV3bXhxbTI5d2plZm5tZzFseHBvcGFhbzR3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif"
-  width="260"
-  alt="Anime technology GIF"/>
+     width="260"
+     alt="Anime technology GIF"/>
 
 <br><br>
 
-<b>「 DATA → SYSTEMS → INSIGHT 」</b>
+<b>「 GET STUCK · LEARN · LEVEL UP 」</b>
 
 <br>
 
-<sub>Building pipelines. Understanding systems.<br>Always learning something new.</sub>
+<sub>Curious about technology.<br>Always digging deeper.</sub>
 
 </td>
 </tr>
