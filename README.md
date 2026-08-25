@@ -1,6 +1,6 @@
 | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="assets/gif1.png" width="100%"/> | <img src="assets/gif2.png" width="100%"/> | <img src="assets/gif3.png" width="100%"/> | <img src="assets/gif4.png" width="100%"/> | <img src="assets/gif5.png" width="100%"/> | <img src="assets/gif6.png" width="100%"/> |
+| <img src="assets/gif1.gif" width="100%"/> | <img src="assets/gif2.gif" width="100%"/> | <img src="assets/gif3.gif" width="100%"/> | <img src="assets/gif4.gif" width="100%"/> | <img src="assets/gif5.gif" width="100%"/> | <img src="assets/gif6.gif" width="100%"/> |
 
 <div align="center">
 
