@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 12" width="100%" height="12">
+  <defs>
+    <linearGradient id="sukuna" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#450A0A" stop-opacity="0"/>
+      <stop offset="18%" stop-color="#991B1B" stop-opacity=".8"/>
+      <stop offset="38%" stop-color="#EF4444" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#FCA5A5" stop-opacity="1"/>
+      <stop offset="62%" stop-color="#EF4444" stop-opacity="1"/>
+      <stop offset="82%" stop-color="#991B1B" stop-opacity=".8"/>
+      <stop offset="100%" stop-color="#450A0A" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="sukunaGlow" x="-20%" y="-400%" width="140%" height="900%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .sukunaLine {
+        animation: slash 2.2s ease-in-out infinite;
+        transform-origin: center;
+      }
+
+      @keyframes slash {
+        0%, 100% {
+          opacity: .5;
+          transform: scaleX(.82);
+        }
+        45% {
+          opacity: 1;
+          transform: scaleX(1);
+        }
+        55% {
+          opacity: .75;
+          transform: scaleX(.96);
+        }
+      }
+    </style>
+  </defs>
+
+  <rect
+    class="sukunaLine"
+    x="0"
+    y="4"
+    width="1200"
+    height="4"
+    rx="2"
+    fill="url(#sukuna)"
+    filter="url(#sukunaGlow)"
+  />
+</svg>
