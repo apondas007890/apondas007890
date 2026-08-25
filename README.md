@@ -1,10 +1,11 @@
-
-<img src="assets/gif1.gif" width="145" alt="GIF 1" />
-<img src="assets/gif2.gif" width="145" alt="GIF 2" />
-<img src="assets/gif3.gif" width="145" alt="GIF 3" />
-<img src="assets/gif4.gif" width="145" alt="GIF 4" />
-<img src="assets/gif5.gif" width="145" alt="GIF 5" />
-<img src="assets/gif6.gif" width="145" alt="GIF 6" />
+<p align="center">
+  <img src="your_image_1.png" width="15%" />
+  <img src="your_image_2.png" width="15%" />
+  <img src="your_image_3.png" width="15%" />
+  <img src="your_image_4.png" width="15%" />
+  <img src="your_image_5.png" width="15%" />
+  <img src="your_image_6.png" width="15%" />
+</p>
 <div align="center">
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px;">
