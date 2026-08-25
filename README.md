@@ -1,10 +1,5 @@
-<p>
-<img src="assets/gif1.gif" width="138" alt="GIF 1" />
-<img src="assets/gif2.gif" width="138" alt="GIF 2" />
-<img src="assets/gif3.gif" width="138" alt="GIF 3" />
-<img src="assets/gif4.gif" width="138" alt="GIF 4" />
-<img src="assets/gif5.gif" width="138" alt="GIF 5" />
-<img src="assets/gif6.gif" width="138" alt="GIF 6" />
+<p align="center">
+  <img src="assets/gif1.gif" width="125" height="85" alt="GIF 1" /><img src="assets/gif2.gif" width="125" height="85" alt="GIF 2" /><img src="assets/gif3.gif" width="125" height="85" alt="GIF 3" /><img src="assets/gif4.gif" width="125" height="85" alt="GIF 4" /><img src="assets/gif5.gif" width="125" height="85" alt="GIF 5" /><img src="assets/gif6.gif" width="125" height="85" alt="GIF 6" />
 </p>
 
 <div align="center">
