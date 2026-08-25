@@ -1,6 +1,6 @@
 | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="gif1.png" width="100%"/> | <img src="gif2.png" width="100%"/> | <img src="gif3.png" width="100%"/> | <img src="gif4.png" width="100%"/> | <img src="gif5.png" width="100%"/> | <img src="gif6.png" width="100%"/> |
+| <img src="./assets/gif1.png" width="100%"/> | <img src="./assets/gif2.png" width="100%"/> | <img src="./assets/gif3.png" width="100%"/> | <img src="./assets/gif4.png" width="100%"/> | <img src="./assets/gif5.png" width="100%"/> | <img src="./assets/gif6.png" width="100%"/> |
 <div align="center">
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px;">
