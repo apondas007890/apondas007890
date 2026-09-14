@@ -38,75 +38,111 @@
 </div>
 
 <!-- 🌌 About Me -->
+
 <h2>🧬 <span style="color:#FBBF24;">About Me</span></h2>
 
 <table align="center" width="100%">
 <tr>
+
 <td width="68%" valign="top">
 
 <p>
-  Hi! I'm <span style="color:#A78BFA; font-weight:bold;">Apon Kumar Das</span> — a <span style="color:#818CF8; font-weight:bold;">Data Engineer</span> and someone who's genuinely <span style="color:#F472B6; font-weight:bold;">crazy about technology</span>.
+  Hi! I'm <span style="color:#A78BFA; font-weight:bold;">Apon Kumar Das</span> —
+  a <span style="color:#818CF8; font-weight:bold;">Data Engineer</span> and someone who's genuinely
+  <span style="color:#F472B6; font-weight:bold;">crazy about technology</span>.
 </p>
 
 <p>
-  I love exploring how things work <span style="color:#A78BFA; font-weight:bold;">under the hood</span>, learning new technologies, and picking up something new every day. I'm not satisfied with just knowing <em>what</em> a technology does — I want to understand <span style="color:#38BDF8; font-weight:bold;">how it actually works</span>, <span style="color:#F472B6; font-weight:bold;">why it is built that way</span>, and <span style="color:#34D399; font-weight:bold;">how all the pieces fit together</span>.
+  I love exploring how things work
+  <span style="color:#A78BFA; font-weight:bold;">under the hood</span>,
+  learning new technologies, and picking up something new every day.
+  I'm not satisfied with just knowing <em>what</em> a technology does —
+  I want to understand
+  <span style="color:#38BDF8; font-weight:bold;">how it actually works</span>,
+  <span style="color:#F472B6; font-weight:bold;">why it is built that way</span>,
+  and <span style="color:#34D399; font-weight:bold;">how all the pieces fit together</span>.
 </p>
 
-
 <p>
-  My interest in data comes from the bigger picture — <span style="color:#C084FC; font-weight:bold;">how real data products are built, how data flows through systems, and how good architecture turns data into something useful for better decisions.</span>
+  My interest in data comes from the bigger picture —
+  <span style="color:#C084FC; font-weight:bold;">
+    how real data products are built, how data flows through systems,
+    and how good architecture turns data into something useful for better decisions.
+  </span>
 </p>
 
 <p>
   I'm constantly experimenting, breaking things, rebuilding them, and keep asking myself:
 </p>
 
-<blockquote style="border-left: 3px solid #8B5CF6; padding-left: 10px; color: #E9D5FF;">
-  <span style="color:#FDE68A; font-weight:bold;">"Wait... why does this work like that?"</span> 🤨
+<blockquote style="border-left:3px solid #8B5CF6; padding-left:10px; color:#E9D5FF;">
+  <span style="color:#FDE68A; font-weight:bold;">
+    "Wait... why does this work like that?"
+  </span> 🤨
 </blockquote>
 
 <p>
-  🔭 <span style="color:#38BDF8; font-weight:bold;">Currently exploring:</span> &nbsp;
-  <code>Databricks</code> · <code>Azure</code> · <code>Apache Spark</code> · <code>Kafka</code> · <code>Cloud</code> · <code>Data Architecture</code>
+  🔭 <span style="color:#38BDF8; font-weight:bold;">Currently exploring:</span>
+  &nbsp;
+  <code>Databricks</code> ·
+  <code>Azure</code> ·
+  <code>Apache Spark</code> ·
+  <code>Kafka</code> ·
+  <code>Cloud</code> ·
+  <code>Data Architecture</code>
 </p>
 
 <p>
   🧠 <span style="color:#A78BFA; font-weight:bold;">My mindset:</span>
 </p>
 
-<blockquote style="border-left: 3px solid #EC4899; padding-left: 10px; color: #FCE7F3;">
-  <span style="color:#F472B6; font-weight:bold;">Stay curious. Get stuck. Feel dumb. Figure it out. Keep going.</span>
+<blockquote style="border-left:3px solid #EC4899; padding-left:10px; color:#FCE7F3;">
+  <span style="color:#F472B6; font-weight:bold;">
+    Stay curious. Get stuck. Feel dumb. Figure it out. Keep going.
+  </span>
 </blockquote>
 
 <p>
-  Sometimes my brain runs like an <span style="color:#008aff; font-weight:bold;">old Samsung phone</span> — freezes, hangs, needs a restart... but somehow, <span style="color:#34D399; font-weight:bold;">it gets the job done.</span> 😂
+  Sometimes my brain runs like an
+  <span style="color:#008aff; font-weight:bold;">old Samsung phone</span> —
+  freezes, hangs, needs a restart... but somehow,
+  <span style="color:#34D399; font-weight:bold;">it gets the job done.</span>
+  😂
 </p>
 
 <p>
-  And when I'm not messing with data and technology, I'm probably watching <span style="color:#F43F5E; font-weight:bold;">anime</span> — because every serious engineer needs a little chaos in the system. ⚡
+  And when I'm not messing with data and technology, I'm probably watching
+  <span style="color:#F43F5E; font-weight:bold;">anime</span> —
+  because every serious engineer needs a little chaos in the system. ⚡
 </p>
 
 </td>
 
 <td width="32%" align="center" valign="middle">
-<img src="assets/toji-fushiguro.gif"
-     width="260"
-     alt="Anime GIF"
-     style="border-radius: 6px;" />
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFjd3hxYWtqN3NuYjV3bXhxbTI5d2plZm5tZzFseHBvcGFhbzR3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif"
-     width="260"
-     alt="Anime technology GIF"/>
+<img
+src="assets/toji-fushiguro.gif"
+width="260"
+alt="Toji Fushiguro GIF"
+/>
 
+<br><br>
+
+<img
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFjd3hxYWtqN3NuYjV3bXhxbTI5d2plZm5tZzFseHBvcGFhbzR3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif"
+width="260"
+alt="Anime technology GIF"
+/>
+
+<br><br>
 
 <b>「 GET STUCK · LEARN · LEVEL UP 」</b>
 
-
-
-
 </td>
+
 </tr>
 </table>
+
 
 <div align="center">
   <img src="./assets/2.svg" width="100%" alt="">
