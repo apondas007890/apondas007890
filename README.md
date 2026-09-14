@@ -185,30 +185,48 @@
 <h2>⛩️ <span style="color:#FBBF24;">Featured Projects</span></h2>
 
 <details>
-<summary><b>🏗️ SQL Data Warehouse Project</b></summary>
+<summary><b>☁️ HealthOne Enterprise Lakehouse</b></summary>
 <br/>
 
-> **End-to-end data warehouse in SQL Server using Medallion Architecture**
+> **End-to-end healthcare and HR data platform built on Microsoft Azure.**
 
-| Layer | Description |
-|-------|-------------|
-| 🥉 **Bronze** | Raw ingestion from ERP & CRM data sources |
-| 🥈 **Silver** | Data cleaning, transformation, and business rules |
-| 🥇 **Gold** | Star Schema with fact & dimension tables for analytics |
-
-- ✅ **Automated data quality checks** across all layers  
-- ✅ **Full documentation** with architecture diagrams & data catalog  
-- ✅ **Naming conventions** and best practices implemented  
+* Ingested data from **Azure SQL and OneDrive** into ADLS Gen2 using **ADF and Logic Apps**.
+* Transformed and validated data with **Databricks and Delta Lake** using Bronze → Silver → Gold layers.
+* Implemented **incremental loading, watermark processing, and SCD Type 2** for historical data.
+* Built **fact and dimension views** in the Gold layer for analytics.
 
 <p>
-  <a href="https://github.com/apondas007890/sql-data-warehouse-project">
-    <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/SQL%20%7C%20SSMS%20%7C%20Medallion%20Architecture-0ea5e9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Star%20Schema-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Azure-0ea5e9?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-E11D48?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Delta%20Lake-8B5CF6?style=for-the-badge"/>
 </p>
 
 </details>
+
+<details>
+<summary><b>🏗️ SQL Data Warehouse Project</b></summary>
+<br/>
+
+> **Built a SQL Server data warehouse using Medallion Architecture.**
+
+* Loaded raw **ERP & CRM data** into the Bronze layer.
+* Cleaned and integrated the data in the Silver layer.
+* Built a **Gold star schema** with fact and dimension tables for analytics.
+* Added **data quality checks** and project documentation.
+
+<p>
+  <a href="https://github.com/apondas007890/sql-data-warehouse-project">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/SQL%20Server-0ea5e9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Medallion%20Architecture-8B5CF6?style=for-the-badge"/>
+</p>
+
+</details>
+
 
 <details>
 <summary><b>🛍️ ShopSmart – Data Preprocessing Pipeline</b></summary>
